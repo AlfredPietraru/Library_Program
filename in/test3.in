@@ -1,0 +1,4 @@
+ADD_BOOK "Dictionar Explicativ Roman" 1
+carte dictionar
+GET_DEF "Dictionar Explicativ Roman" carte
+EXIT

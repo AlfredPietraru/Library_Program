@@ -1,0 +1,25 @@
+ADD_BOOK "B1" 0
+ADD_BOOK "B2" 0
+ADD_BOOK "B3" 0
+ADD_USER user1
+ADD_USER user2
+ADD_USER ana
+ADD_USER user4
+ADD_USER user1
+BORROW user1 "B1" 3
+BORROW user2 "B2" 1
+BORROW ana "B3" 7
+BORROW user4 "B1" 3
+RETURN user1 "B1" 30 4
+RETURN user2 "B2" 1 3
+BORROW user2 "B1" 3
+RETURN user2 "B1" 5 1
+RETURN ana "B2" 8 2
+RETURN ana "B3" 8 2
+BORROW ana "B1" 3
+RETURN ana "B1" 4 5
+GET_BOOK "B1"
+BORROW user1 "B1" 3
+LOST user1 "B1"
+GET_BOOK "B1"
+EXIT

@@ -1,0 +1,31 @@
+ADD_USER admin
+ADD_BOOK "Urban Dictionary" 4
+bro frate
+like gen
+selfie portret
+simp tryhard
+ADD_BOOK "Dictionar Roman-Englez" 5
+caine dog
+pisica cat
+mama mother
+ACS suicide
+cal BojackHorseman
+GET_DEF "Urban Dictionary" bro
+ADD_DEF "Urban Dictionary" lmao haha
+GET_BOOK "Alba ca zapada si capra cu 3 iezi"
+GET_BOOK "Urban Dictionary"
+ADD_USER admin
+ADD_USER SakNoel
+BORROW admin "Dictionar Roman-Englez" 5
+RMV_DEF "Urban Dictionary" selfie
+RETURN admin "Dictionar Roman-Englez" 20 4
+BORROW SakNoel "Dictionar Roman-Englez" 7
+BORROW admin "Dictionar Roman-Englez" 12
+BORROW SakNoel "Urban Dictionary" 7
+RETURN SakNoel "Dictionar Roman-Englez" 7 3
+BORROW SakNoel "Urban Dictionary" 12
+GET_BOOK "Dictionar Roman-Englez"
+GET_BOOK "Urban Dictionary"
+RETURN SakNoel "Urban Dictionary" 8 1
+GET_BOOK "Urban Dictionary"
+EXIT

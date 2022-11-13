@@ -1,0 +1,14 @@
+ADD_BOOK "RO-FR" 3
+paine croissant
+cf? vulevucuseavecmoa?
+da oui
+GET_DEF "RO-FR" paine
+GET_DEF "RO-FR" mersi
+ADD_DEF "RO-FR" mersi merci
+GET_DEF "RO-FR" mersi
+RMV_DEF "RO-FR" paine
+GET_DEF "RO-FR" paine
+GET_BOOK "RO-FR"
+RMV_BOOK "RO-FR"
+GET_BOOK "RO-FR"
+EXIT

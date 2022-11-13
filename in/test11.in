@@ -1,0 +1,51 @@
+ADD_BOOK "Dictionar IT-TR" 1
+wanting silent
+ADD_DEF "Dictionar IT-TR" disapprove debt
+ADD_BOOK "Dictionar AR-DTH" 6
+flawless lyrical
+repair wobble
+committee encouraging
+wet first
+scattered pathetic
+loutish beneficial
+ADD_USER Peck
+BORROW Peck "Dictionar IT-TR" 2
+RETURN Peck "Dictionar IT-TR" 6 2
+BORROW Peck "Dictionar IT-TR" 5
+RMV_DEF "Dictionar IT-TR" disapprove
+GET_BOOK "Dictionar AR-DTH"
+ADD_BOOK "Dictionar JPN-GR" 3
+dysfunctional value
+succinct secretive
+crook economic
+RETURN Peck "Dictionar IT-TR" 4 3
+BORROW Peck "Dictionar AR-DTH" 3
+GET_DEF "Dictionar JPN-GR" crook
+RETURN Peck "Dictionar AR-DTH" 1 5
+ADD_USER Calderon
+GET_BOOK "Dictionar JPN-GR"
+ADD_BOOK "Dictionar RO-FR" 3
+approve grass
+cows ill
+creepy maid
+GET_BOOK "Dictionar RO-FR"
+BORROW Peck "Dictionar IT-TR" 4
+ADD_DEF "Dictionar RO-FR" fearful panoramic
+BORROW Calderon "Dictionar RO-FR" 0
+RETURN Peck "Dictionar IT-TR" 4 5
+GET_BOOK "Dictionar JPN-GR"
+BORROW Peck "Dictionar IT-TR" 4
+ADD_USER Tipple
+BORROW Tipple "Dictionar JPN-GR" 6
+LOST Peck "Dictionar IT-TR"
+ADD_DEF "Dictionar RO-FR" settle partner
+RETURN Calderon "Dictionar RO-FR" 1 2
+BORROW Calderon "Dictionar RO-FR" 1
+RETURN Calderon "Dictionar RO-FR" 6 4
+RETURN Tipple "Dictionar JPN-GR" 0 4
+ADD_BOOK "Dictionar IND-NOR" 2
+communicate rainstorm
+carriage harmony
+GET_DEF "Dictionar IND-NOR" carriage
+ADD_DEF "Dictionar RO-FR" guarantee slippery
+EXIT

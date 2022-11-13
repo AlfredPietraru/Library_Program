@@ -1,0 +1,1853 @@
+ADD_BOOK "Dictionar GR-HNG" 20
+craven ill-fated
+naive realize
+forgetful steel
+determined x-ray
+touch eyes
+high-pitched happy
+keen imperfect
+grandfather impossible
+meat paste
+bead van
+sail brush
+earthy warn
+remove truculent
+tease abounding
+step alert
+fly scare
+angry hands
+knit act
+pat train
+tenuous space
+GET_BOOK "Dictionar GR-HNG"
+GET_BOOK "Dictionar GR-HNG"
+ADD_BOOK "Dictionar AR-DTH" 9
+condition horrible
+lethal plucky
+road unite
+creator tomatoes
+pause complex
+error reading
+wool pipe
+inform subsequent
+bleach radiate
+ADD_DEF "Rickerson + Sharp = prepare" bad bear
+ADD_DEF "Dictionar GR-HNG" rude optimal
+ADD_DEF "Dictionar AR-DTH" wool rapid
+ADD_DEF "Dictionar AR-DTH" ahead hope
+ADD_DEF "Dictionar GR-HNG" stay squirrel
+ADD_BOOK "Dictionar IT-TR" 9
+pedal ludicrous
+ask uninterested
+recognise name
+painstaking ship
+wonderful enormous
+reach distance
+teaching enter
+exultant uncovered
+nauseating produce
+ADD_DEF "Dictionar GR-HNG" grandfather hateful
+ADD_DEF "Dictionar GR-HNG" numberless economic
+ADD_BOOK "Dictionar EN-POR" 29
+immense girls
+range excellent
+word clover
+toys crate
+ear wink
+skinny haircut
+provide kindly
+beds steep
+foolish satisfy
+dear realize
+weary rabbit
+thundering living
+summer grouchy
+minor homely
+detect grotesque
+wink decide
+ill-informed debonair
+force jump
+travel silky
+bruise cabbage
+mug savory
+joke colossal
+ghost circle
+careful nebulous
+sprout educate
+curly guide
+harmony smoggy
+repeat awful
+ghost little
+ADD_USER Kellerhals
+BORROW Kellerhals "Dictionar EN-POR" 24
+GET_BOOK "Dictionar IT-TR"
+RETURN Kellerhals "Dictionar EN-POR" 28 4
+BORROW Kellerhals "Dictionar EN-POR" 19
+ADD_USER Carol
+BORROW Carol "Dictionar GR-HNG" 13
+ADD_BOOK "Dictionar RUS-AR" 2
+inconclusive unfasten
+things devilish
+RETURN Kellerhals "Dictionar EN-POR" 15 5
+GET_BOOK "Dictionar RUS-AR"
+ADD_DEF "Dictionar AR-DTH" mute friendly
+RETURN Carol "Dictionar GR-HNG" 24 5
+BORROW Carol "Dictionar AR-DTH" 9
+GET_BOOK "Dictionar IT-RUS"
+RETURN Carol "Dictionar AR-DTH" 7 2
+GET_DEF "Dictionar GR-HNG" naive
+GET_DEF "Dictionar EN-POR" careful
+ADD_USER Glynn
+ADD_USER Emmalynn
+BORROW Glynn "Dictionar GR-HNG" 24
+RMV_DEF "Dictionar RUS-AR" inconclusive
+BORROW Kellerhals "Dictionar RUS-AR" 13
+ADD_BOOK "Dictionar FR-CHN" 26
+colorful meal
+harsh ticket
+ragged burn
+zinc responsible
+carve rejoice
+lucky expansion
+neck doll
+crash noise
+tidy chop
+ossified terrific
+song vest
+fireman dinosaurs
+knock zesty
+trousers straw
+squealing romantic
+fat high-pitched
+disagree flowers
+bee tow
+enter earsplitting
+amuck cumbersome
+cow snakes
+glib yard
+pricey knotty
+fluffy clip
+file expert
+maniacal crib
+ADD_DEF "Mehetabel + Ruszkowski = fragile" type like
+RETURN Kellerhals "Dictionar RUS-AR" 24 3
+ADD_DEF "Dictionar AR-DTH" grateful clear
+ADD_DEF "Dictionar AR-DTH" spotted chief
+RETURN Glynn "Dictionar GR-HNG" 24 2
+BORROW Kellerhals "Dictionar RUS-AR" 27
+BORROW Carol "Dictionar GR-HNG" 0
+BORROW Glynn "Dictionar EN-POR" 24
+BORROW Emmalynn "Dictionar FR-CHN" 28
+RETURN Carol "Dictionar GR-HNG" 13 2
+RETURN Glynn "Dictionar EN-POR" 20 2
+RETURN Emmalynn "Dictionar FR-CHN" 4 4
+RETURN Kellerhals "Dictionar RUS-AR" 4 2
+ADD_USER Halvard
+BORROW Carol "Dictionar GR-HNG" 17
+BORROW Carol "Dictionar EN-POR" 15
+RETURN Carol "Dictionar GR-HNG" 28 3
+BORROW Carol "Dictionar EN-POR" 17
+GET_DEF "Dictionar RUS-AR" things
+RETURN Carol "Dictionar EN-POR" 29 4
+ADD_BOOK "Dictionar EN-JPN" 29
+sigh romantic
+sophisticated hysterical
+plucky hammer
+ducks dust
+equable pastoral
+puzzling temper
+order subdued
+juggle instinctive
+lamp suggestion
+reproduce quaint
+high-pitched round
+voice cows
+glorious jog
+male rush
+sun company
+lettuce apparel
+fold release
+incandescent page
+found scarecrow
+disgusting well-made
+painful eyes
+pig craven
+rabid seed
+bike meek
+invincible girls
+ceaseless mind
+enter extend
+combative unwieldy
+zesty harm
+ADD_BOOK "Dictionar AR-CHN" 15
+elite motion
+square society
+spotless quarrelsome
+wonderful arrange
+adorable oatmeal
+nut possible
+upbeat chunky
+flavor normal
+own protest
+harsh sulky
+hug furniture
+malicious lucky
+resolute wiry
+moan travel
+fold muddle
+ADD_DEF "Dictionar AR-DTH" whole explode
+BORROW Glynn "Dictionar EN-JPN" 27
+ADD_DEF "Dictionar RUS-AR" shocking recognise
+LOST Glynn "Dictionar EN-JPN"
+BORROW Kellerhals "Dictionar AR-CHN" 10
+BORROW Kellerhals "Dictionar IT-TR" 30
+BORROW Glynn "Dictionar IT-TR" 11
+ADD_BOOK "Dictionar HIN-IND" 30
+coast scattered
+truthful reflect
+zealous pump
+seed hobbies
+front club
+decisive bird
+relation shallow
+mitten silver
+teeny strange
+loving work
+spoil flat
+pathetic scarce
+zany butter
+rod mix
+tasty tranquil
+fast car
+unable utter
+airport judge
+toad shy
+different excite
+fang profit
+glorious obsequious
+aggressive ear
+roll connection
+grain cherries
+event remain
+gold event
+rest acceptable
+deeply harbor
+squirrel permit
+BORROW Carol "Dictionar GR-HNG" 24
+RETURN Carol "Dictionar GR-HNG" 10 5
+BORROW Carol "Dictionar EN-POR" 19
+BORROW Halvard "Dictionar GR-HNG" 12
+BORROW Emmalynn "Dictionar RUS-AR" 30
+RETURN Glynn "Dictionar IT-TR" 3 2
+ADD_DEF "Dictionar AR-DTH" wool wonderful
+RETURN Emmalynn "Dictionar RUS-AR" 23 5
+RETURN Kellerhals "Dictionar AR-CHN" 13 5
+RETURN Halvard "Dictionar GR-HNG" 25 1
+RETURN Carol "Dictionar EN-POR" 15 2
+ADD_BOOK "Dictionar HNG-JPN" 23
+versed impress
+workable route
+grab children
+preach repulsive
+motionless distance
+abortive rob
+chin fallacious
+enter comb
+brash plate
+hanging pan
+tired glorious
+bat maddening
+gifted activity
+stone achiever
+hushed death
+third sky
+preserve heap
+tramp deserve
+internal unit
+remove class
+alleged rare
+resonant lethal
+responsible panicky
+BORROW Halvard "Dictionar AR-CHN" 28
+RETURN Halvard "Dictionar AR-CHN" 8 4
+GET_DEF "Dictionar GR-HNG" knit
+ADD_DEF "Dictionar AR-CHN" natural plane
+BORROW Glynn "Dictionar RUS-AR" 12
+BORROW Kellerhals "Dictionar GR-HNG" 8
+BORROW Halvard "Dictionar HIN-IND" 4
+ADD_DEF "Dictionar AR-CHN" attract great
+ADD_USER Simpson
+ADD_BOOK "Dictionar GR-IT" 6
+roomy woebegone
+absurd callous
+sun delight
+questionable mix
+cuddly argue
+straight malicious
+GET_BOOK "Dictionar AR-CHN"
+GET_BOOK "Dictionar GR-HNG"
+ADD_DEF "Dictionar HIN-IND" squirrel jolly
+BORROW Emmalynn "Dictionar EN-POR" 27
+BORROW Carol "Dictionar FR-CHN" 29
+RETURN Emmalynn "Dictionar EN-POR" 23 2
+BORROW Simpson "Dictionar IT-TR" 21
+ADD_DEF "Hedwig + Houston = stretch" hulking picture
+RETURN Glynn "Dictionar RUS-AR" 21 4
+BORROW Glynn "Dictionar GR-IT" 0
+BORROW Emmalynn "Dictionar HNG-JPN" 11
+ADD_DEF "Dictionar HNG-JPN" spiritual simple
+GET_DEF "Dictionar EN-POR" beds
+LOST Simpson "Dictionar IT-TR"
+GET_BOOK "Dictionar GR-IT"
+BORROW Simpson "Dictionar RUS-AR" 5
+ADD_USER Rendahl
+BORROW Rendahl "Dictionar AR-DTH" 6
+GET_DEF "Dictionar RUS-AR" things
+LOST Glynn "Dictionar GR-IT"
+RETURN Emmalynn "Dictionar HNG-JPN" 15 1
+GET_BOOK "Dictionar FR-CHN"
+BORROW Emmalynn "Dictionar HNG-JPN" 25
+ADD_BOOK "Dictionar POR-HIN" 0
+GET_BOOK "Dictionar AR-GR"
+GET_BOOK "Dictionar POR-HIN"
+RETURN Halvard "Dictionar HIN-IND" 24 1
+RETURN Simpson "Dictionar RUS-AR" 4 5
+GET_DEF "Dictionar HNG-JPN" hushed
+RETURN Carol "Dictionar FR-CHN" 0 4
+ADD_DEF "Dictionar FR-CHN" tidy burly
+ADD_BOOK "Dictionar AR-HNG" 26
+berserk crow
+true unsuitable
+magnificent grandiose
+productive challenge
+reproduce wax
+representative tasteless
+bloody political
+absorbing airplane
+store ordinary
+joke cherry
+redundant scarf
+expect vigorous
+festive reaction
+clover onerous
+lunchroom abnormal
+toys branch
+selfish understood
+debt sock
+disagreeable plough
+rich well-to-do
+pour well-groomed
+plain brother
+aftermath invite
+fast describe
+old grate
+puny worry
+ADD_BOOK "Dictionar CHN-KR" 19
+rabbit filthy
+unwieldy impartial
+preach macabre
+finger premium
+legal medical
+curved adaptable
+godly glass
+cows quickest
+pail thumb
+kaput songs
+dazzling steam
+turkey mature
+bored suggestion
+badge statement
+scorch neat
+plants tow
+nutritious cactus
+title skate
+grandfather growth
+GET_BOOK "Dictionar RUS-AR"
+RETURN Rendahl "Dictionar AR-DTH" 25 2
+BORROW Simpson "Dictionar AR-DTH" 12
+BORROW Rendahl "Dictionar HIN-IND" 18
+BORROW Halvard "Dictionar AR-HNG" 8
+BORROW Carol "Dictionar EN-POR" 28
+ADD_BOOK "Dictionar NOR-RO" 11
+stew own
+songs soak
+suppose obtainable
+scold print
+join strengthen
+irate strap
+party unequaled
+lamp parcel
+youthful rare
+ship house
+witty annoyed
+ADD_DEF "Dictionar RUS-AR" inconclusive things
+RETURN Emmalynn "Dictionar HNG-JPN" 6 2
+BORROW Emmalynn "Dictionar HNG-JPN" 29
+ADD_DEF "Dictionar EN-POR" fill handle
+ADD_BOOK "Dictionar IT-NOR" 0
+RETURN Kellerhals "Dictionar GR-HNG" 16 3
+BORROW Kellerhals "Dictionar IT-NOR" 12
+RMV_BOOK "Dictionar GR-HNG"
+RETURN Simpson "Dictionar AR-DTH" 9 1
+ADD_BOOK "Dictionar TR-FR" 17
+kettle calculating
+bite rings
+curved voracious
+furry pen
+frightened thread
+chop hunt
+enchanting substantial
+route tiresome
+cannon face
+motionless smooth
+nerve toothsome
+equable expand
+selfish quaint
+change thirsty
+wealthy toothsome
+fine development
+trip choke
+GET_DEF "Dictionar NOR-RO" irate
+RETURN Rendahl "Dictionar HIN-IND" 14 3
+BORROW Rendahl "Dictionar HIN-IND" 8
+RETURN Emmalynn "Dictionar HNG-JPN" 20 3
+ADD_DEF "Frey + Gavin = rain" action yard
+ADD_USER Dentinger
+GET_DEF "Dictionar HNG-JPN" next
+BORROW Dentinger "Dictionar FR-CHN" 14
+BORROW Simpson "Dictionar AR-DTH" 21
+ADD_USER Watts
+GET_DEF "Dictionar AR-HNG" add
+GET_DEF "Dictionar HNG-JPN" stone
+BORROW Emmalynn "Dictionar RUS-AR" 7
+ADD_USER Yalonda
+RETURN Dentinger "Dictionar FR-CHN" 2 3
+BORROW Watts "Dictionar TR-FR" 3
+GET_DEF "Dictionar HNG-JPN" complain
+GET_BOOK "Dictionar RUS-AR"
+BORROW Dentinger "Dictionar POR-HIN" 7
+RETURN Halvard "Dictionar AR-HNG" 22 3
+ADD_DEF "Dictionar RUS-AR" things nice
+GET_BOOK "Dictionar RUS-AR"
+BORROW Halvard "Dictionar FR-CHN" 11
+ADD_USER Riane
+LOST Kellerhals "Dictionar IT-NOR"
+GET_DEF "Dictionar TR-FR" curved
+RETURN Watts "Dictionar TR-FR" 1 5
+ADD_BOOK "Dictionar KR-HIN" 19
+toys manage
+juggle committee
+treat meal
+oval tricky
+glamorous helpful
+ugliest few
+license clip
+classy alarm
+abortive muddle
+jewel oafish
+rest disastrous
+bomb melted
+expand embarrassed
+room aggressive
+pies bite-sized
+plants truculent
+bow materialistic
+obedient square
+guitar lame
+RETURN Emmalynn "Dictionar RUS-AR" 4 4
+GET_DEF "Dictionar AR-DTH" psychotic
+ADD_DEF "Dictionar FR-CHN" disagree creature
+GET_DEF "Dictionar EN-POR" skinny
+BORROW Riane "Dictionar AR-HNG" 6
+GET_BOOK "Dictionar HNG-JPN"
+RETURN Simpson "Dictionar AR-DTH" 28 1
+BORROW Riane "Dictionar HIN-IND" 13
+BORROW Simpson "Dictionar AR-CHN" 11
+ADD_BOOK "Dictionar HNG-CHN" 15
+angle way
+highfalutin oafish
+remove late
+gullible spy
+home overjoyed
+snail raspy
+knowledgeable ragged
+jealous elastic
+hesitant gray
+coal learn
+quizzical undress
+quarter grateful
+kick observation
+expensive discovery
+money lip
+ADD_USER Marchelle
+ADD_DEF "Dictionar HNG-CHN" highfalutin giants
+BORROW Watts "Dictionar POR-HIN" 9
+RETURN Rendahl "Dictionar HIN-IND" 26 4
+ADD_DEF "Dictionar EN-POR" female cynical
+ADD_BOOK "Dictionar KR-TR" 17
+regular narrow
+open poor
+agree mist
+quilt power
+vagabond bizarre
+hang salty
+price wet
+magenta baseball
+vigorous utter
+middle night
+afraid pollution
+disturbed live
+ready deadpan
+abject dance
+day prick
+position delight
+radiate rabbits
+GET_DEF "Dictionar AR-FR" plants
+BORROW Kellerhals "Dictionar AR-HNG" 7
+BORROW Watts "Dictionar KR-HIN" 29
+ADD_DEF "Dictionar DTH-POR" north mind
+RETURN Carol "Dictionar EN-POR" 6 2
+RETURN Halvard "Dictionar FR-CHN" 7 4
+BORROW Marchelle "Dictionar RUS-AR" 3
+BORROW Kellerhals "Dictionar CHN-KR" 25
+BORROW Yalonda "Dictionar KR-TR" 25
+ADD_DEF "Dictionar KR-HIN" nice stitch
+RMV_DEF "Dictionar CHN-KR" pail
+ADD_DEF "Dictionar NOR-RO" approve foregoing
+ADD_USER Valenzuela
+GET_DEF "Dictionar FR-CHN" ossified
+ADD_DEF "Dictionar GR-POR" typical hobbies
+BORROW Emmalynn "Dictionar HNG-JPN" 7
+BORROW Carol "Dictionar FR-CHN" 24
+BORROW Valenzuela "Dictionar EN-POR" 27
+RETURN Carol "Dictionar FR-CHN" 8 1
+RETURN Kellerhals "Dictionar CHN-KR" 6 1
+GET_BOOK "Dictionar POR-HIN"
+BORROW Rendahl "Dictionar TR-FR" 6
+BORROW Carol "Dictionar HIN-IND" 7
+ADD_DEF "Ivan + Thatcher = lake" knotty trousers
+BORROW Halvard "Dictionar ESP-IT" 12
+BORROW Halvard "Dictionar HNG-CHN" 7
+ADD_USER Simpson
+GET_BOOK "Hovis + Aimee = omniscient"
+BORROW Kellerhals "Dictionar CHN-KR" 15
+ADD_BOOK "Dictionar KR-JPN" 0
+GET_BOOK "Dictionar HIN-IND"
+ADD_USER Morton
+ADD_USER Brittany
+GET_BOOK "Dictionar HNG-CHN"
+ADD_DEF "Dictionar FR-CHN" quill frequent
+ADD_DEF "Dictionar HNG-JPN" flawless nation
+ADD_BOOK "Dictionar JPN-EN" 1
+influence filthy
+BORROW Morton "Dictionar JPN-EN" 18
+RETURN Riane "Dictionar AR-HNG" 26 5
+ADD_DEF "Dictionar NOR-RO" admire crook
+ADD_DEF "Dictionar JPN-EN" damaged water
+ADD_BOOK "Dictionar NOR-POR" 27
+knot trip
+cheerful voiceless
+bubble colossal
+sedate hospitable
+accurate zonked
+plan trust
+brief drawer
+difficult air
+attract courageous
+dock remind
+wine premium
+acceptable deceive
+honey parcel
+blush giddy
+flame divergent
+six risk
+quarrelsome division
+stew curly
+condemned command
+air protect
+trap filthy
+winter tree
+ritzy treat
+clap alcoholic
+relieved satisfy
+inexpensive heal
+string dare
+GET_BOOK "Dictionar FR-CHN"
+BORROW Brittany "Dictionar NOR-POR" 16
+ADD_DEF "Dictionar JPN-EN" excellent crown
+BORROW Riane "Dictionar NOR-RO" 21
+GET_DEF "Dictionar HIN-IND" relation
+GET_DEF "Dictionar KR-HIN" hook
+ADD_USER McConathy
+RETURN Emmalynn "Dictionar HNG-JPN" 30 1
+ADD_DEF "Dictionar AR-CHN" pale brake
+RETURN Brittany "Dictionar NOR-POR" 4 5
+ADD_DEF "Dictionar AR-DTH" creator telling
+ADD_USER Pennewell
+BORROW Pennewell "Dictionar HNG-JPN" 16
+BORROW Emmalynn "Dictionar AR-HNG" 30
+RETURN Dentinger "Dictionar POR-HIN" 3 5
+GET_BOOK "Dictionar HNG-JPN"
+ADD_DEF "Tischer + Emmalee = permissible" window scratch
+BORROW McConathy "Dictionar KR-JPN" 26
+RETURN McConathy "Dictionar KR-JPN" 30 5
+BORROW Dentinger "Dictionar KR-JPN" 3
+GET_DEF "Dictionar RUS-AR" things
+RETURN Valenzuela "Dictionar EN-POR" 30 5
+GET_BOOK "Dictionar RO-RUS"
+RETURN Rendahl "Dictionar TR-FR" 17 5
+ADD_DEF "Dictionar NOR-RO" x-ray aunt
+RETURN Emmalynn "Dictionar AR-HNG" 8 5
+BORROW Simpson "Dictionar IND-RO" 27
+BORROW Brittany "Dictionar EN-POR" 15
+ADD_DEF "Ellers + Whitney = volleyball" leg dog
+BORROW Valenzuela "Dictionar FR-CHN" 20
+GET_BOOK "Dictionar HNG-TR"
+RETURN Yalonda "Dictionar KR-TR" 17 1
+LOST Morton "Dictionar JPN-EN"
+BORROW Morton "Dictionar POR-HIN" 8
+ADD_DEF "Dictionar KR-HIN" expand party
+ADD_DEF "Dictionar NOR-RO" divergent threatening
+RETURN Marchelle "Dictionar RUS-AR" 3 5
+RETURN Pennewell "Dictionar HNG-JPN" 5 2
+RETURN Kellerhals "Dictionar CHN-KR" 14 5
+BORROW Yalonda "Dictionar NOR-POR" 4
+BORROW McConathy "Dictionar RUS-AR" 29
+ADD_USER Lauren
+RETURN Watts "Dictionar KR-HIN" 0 5
+BORROW Watts "Dictionar AR-DTH" 27
+ADD_BOOK "Dictionar IND-CHN" 21
+tasteless license
+noise sedate
+sofa chilly
+cast smiling
+ugliest short
+icy judge
+smoke imported
+snotty erratic
+seed difficult
+number call
+cough lock
+peep rifle
+sneaky live
+attend north
+curl egg
+tedious foregoing
+minister humdrum
+quince race
+concerned mellow
+attack elbow
+books ill-informed
+ADD_USER McCrossen
+ADD_BOOK "Dictionar JPN-RUS" 6
+inquisitive books
+ocean wet
+spiteful valuable
+acceptable smiling
+business drag
+unkempt simple
+GET_DEF "Dictionar AR-CHN" stupid
+LOST Riane "Dictionar NOR-RO"
+ADD_BOOK "Dictionar CHN-JPN" 1
+part loving
+GET_BOOK "Dictionar RUS-AR"
+GET_DEF "Dictionar HIN-IND" pass
+RETURN Dentinger "Dictionar KR-JPN" 28 4
+ADD_BOOK "Dictionar HIN-POR" 10
+flashy aboriginal
+pink aunt
+cooperative awesome
+hospital annoyed
+order gullible
+ten chew
+love travel
+wandering borrow
+examine delicious
+puncture dress
+RETURN Brittany "Dictionar EN-POR" 8 5
+BORROW Pennewell "Dictionar KR-JPN" 11
+RETURN Pennewell "Dictionar KR-JPN" 24 5
+BORROW Emmalynn "Dictionar TR-FR" 2
+RETURN Glynn "Dictionar NOR-POR" 21 3
+RETURN Emmalynn "Dictionar TR-FR" 16 3
+RETURN Yalonda "Dictionar NOR-POR" 2 4
+BORROW Marchelle "Dictionar NOR-POR" 18
+BORROW Rendahl "Dictionar AR-HNG" 24
+RETURN McConathy "Dictionar RUS-AR" 6 1
+GET_BOOK "Dictionar AR-HNG"
+ADD_DEF "Dictionar AR-CHN" uppity pigs
+BORROW McCrossen "Dictionar HIN-POR" 29
+BORROW McConathy "Dictionar TR-FR" 21
+BORROW Kellerhals "Dictionar JPN-RO" 15
+RETURN Watts "Dictionar AR-DTH" 24 3
+ADD_USER Mikayla
+ADD_BOOK "Dictionar HNG-TR" 10
+normal sofa
+basketball exultant
+vase rush
+care reach
+sign three
+subtract wall
+encouraging yellow
+fumbling descriptive
+profit scattered
+billowy penitent
+RETURN Marchelle "Dictionar NOR-POR" 17 2
+BORROW Watts "Dictionar KR-TR" 16
+RETURN McConathy "Dictionar TR-FR" 26 5
+BORROW Yalonda "Dictionar AR-DTH" 20
+ADD_BOOK "Dictionar POR-DTH" 15
+clumsy monkey
+toy flimsy
+knowledge auspicious
+comparison valuable
+scattered impossible
+sparkle sweater
+blue yummy
+enchanting tooth
+substantial fork
+special expand
+bee gleaming
+oven sky
+straw money
+explode profit
+acidic agreeable
+BORROW Kellerhals "Dictionar HNG-JPN" 23
+BORROW Pennewell "Dictionar JPN-RUS" 12
+ADD_DEF "Dictionar HIN-POR" ten division
+ADD_DEF "Dictionar POR-DTH" blue bawdy
+RETURN McCrossen "Dictionar HIN-POR" 7 2
+GET_DEF "Dictionar RO-AR" double
+GET_BOOK "Carol + Brault = fasten"
+BORROW Emmalynn "Dictionar HNG-TR" 19
+GET_BOOK "Dictionar EN-FR"
+RETURN Valenzuela "Dictionar FR-CHN" 4 4
+ADD_BOOK "Dictionar ESP-NOR" 11
+picayune agreeable
+arithmetic good
+excited substantial
+spell five
+disastrous snore
+puzzled smart
+instruct wrestle
+deranged poke
+reading selection
+hungry post
+wretched occur
+ADD_USER Adrian
+BORROW McConathy "Dictionar KR-HIN" 4
+BORROW Mikayla "Dictionar EN-POR" 21
+ADD_DEF "Dictionar POR-HIN" object changeable
+BORROW McCrossen "Dictionar ESP-NOR" 13
+RETURN Pennewell "Dictionar JPN-RUS" 28 2
+ADD_BOOK "Dictionar GR-KR" 1
+trucks slippery
+RETURN Watts "Dictionar KR-TR" 30 1
+BORROW Adrian "Dictionar IND-CHN" 4
+RETURN Yalonda "Dictionar AR-DTH" 10 5
+RETURN Morton "Dictionar POR-HIN" 15 5
+RETURN Simpson "Dictionar AR-CHN" 19 1
+BORROW Yalonda "Dictionar AR-DTH" 28
+RETURN Rendahl "Dictionar AR-HNG" 9 2
+RETURN Kellerhals "Dictionar HNG-JPN" 14 3
+ADD_DEF "Dictionar KR-JPN" handle grandiose
+BORROW Morton "Dictionar AR-CHN" 7
+GET_DEF "Dictionar POR-DTH" straw
+ADD_DEF "Dictionar KR-HIN" expand winter
+BORROW Valenzuela "Dictionar JPN-RUS" 29
+ADD_DEF "Dictionar IND-CHN" adventurous accessible
+BORROW Kellerhals "Dictionar KR-TR" 23
+GET_BOOK "Dictionar ESP-NOR"
+BORROW Marchelle "Dictionar CHN-KR" 22
+BORROW Watts "Dictionar NOR-POR" 20
+BORROW Brittany "Dictionar POR-DTH" 4
+BORROW Riane "Dictionar HNG-JPN" 4
+BORROW Watts "Dictionar GR-KR" 25
+BORROW Dentinger "Dictionar CHN-JPN" 17
+RETURN Watts "Dictionar NOR-POR" 24 1
+BORROW Pennewell "Dictionar NOR-POR" 23
+RETURN Brittany "Dictionar POR-DTH" 6 2
+LOST Emmalynn "Dictionar HNG-TR"
+RETURN Dentinger "Dictionar CHN-JPN" 20 5
+BORROW Simpson "Dictionar RUS-AR" 9
+BORROW Watts "Dictionar KR-JPN" 4
+RETURN McConathy "Dictionar KR-HIN" 27 3
+LOST Marchelle "Dictionar CHN-KR"
+RETURN Yalonda "Dictionar AR-DTH" 30 2
+BORROW Brittany "Dictionar GR-KR" 29
+GET_BOOK "Dictionar HIN-IND"
+ADD_BOOK "Dictionar AR-GR" 29
+haircut spare
+shivering pastoral
+top cent
+synonymous chunky
+haunt jealous
+meat giant
+insidious silky
+fast release
+cute plucky
+pine simple
+malicious sick
+society irritate
+taste scorch
+repeat stereotyped
+ink profit
+trousers oven
+border obtainable
+plantation suggestion
+question one
+guiltless unarmed
+protest trade
+thrill houses
+early tawdry
+ill-fated crown
+internal profit
+excited ubiquitous
+baby order
+well-off puzzled
+unused field
+ADD_DEF "Dictionar ESP-EN" beg truck
+RETURN Halvard "Dictionar HNG-CHN" 7 3
+ADD_DEF "Raven + Zavala = dispensable" calendar silk
+BORROW McConathy "Dictionar AR-GR" 23
+RETURN Adrian "Dictionar IND-CHN" 16 3
+BORROW Marchelle "Dictionar HIN-POR" 22
+GET_DEF "Dictionar IND-CHN" short
+ADD_DEF "Dictionar HIN-IND" rod cushion
+BORROW Lauren "Dictionar GR-KR" 1
+BORROW Lauren "Dictionar POR-HIN" 13
+ADD_BOOK "Dictionar CHN-AR" 7
+upbeat agonizing
+available modern
+stimulating cry
+macho squeamish
+succeed blue-eyed
+lucky credit
+fetch boorish
+BORROW Rendahl "Dictionar TR-FR" 28
+BORROW Dentinger "Dictionar KR-HIN" 3
+RETURN Kellerhals "Dictionar KR-TR" 6 3
+RETURN Mikayla "Dictionar EN-POR" 26 5
+ADD_DEF "Dictionar NOR-POR" flame ragged
+RETURN Lauren "Dictionar POR-HIN" 1 5
+RETURN Pennewell "Dictionar NOR-POR" 15 4
+RETURN Carol "Dictionar HIN-IND" 11 2
+RETURN Simpson "Dictionar RUS-AR" 11 1
+RETURN Marchelle "Dictionar HIN-POR" 4 3
+RMV_DEF "Dictionar HNG-CHN" snail
+RETURN Watts "Dictionar KR-JPN" 26 2
+ADD_DEF "Dictionar TR-FR" suggestion boiling
+RETURN Brittany "Dictionar GR-KR" 20 1
+ADD_BOOK "Dictionar DTH-GR" 16
+boundless hat
+flight vegetable
+obtainable invent
+transport massive
+last polite
+guarded corn
+truck womanly
+obscene third
+painstaking tail
+staking pause
+measure noiseless
+probable whip
+hysterical obeisant
+vengeful smiling
+tart painful
+bitter polish
+ADD_USER Young
+BORROW Emmalynn "Dictionar KR-JPN" 19
+GET_BOOK "Dictionar AR-CHN"
+GET_DEF "Dictionar TR-FR" anxious
+RETURN Dentinger "Dictionar KR-HIN" 21 2
+ADD_BOOK "Dictionar JPN-POR" 6
+dinner second
+shop wasteful
+curtain erratic
+canvas spotty
+dramatic alcoholic
+crowded delirious
+RETURN Valenzuela "Dictionar JPN-RUS" 2 3
+BORROW Watts "Dictionar FR-CHN" 1
+BORROW Dentinger "Dictionar KR-HIN" 8
+ADD_DEF "Dictionar AR-CHN" room wing
+BORROW Carol "Dictionar POR-HIN" 15
+ADD_DEF "Dictionar GR-KR" creature doll
+RETURN Dentinger "Dictionar KR-HIN" 24 5
+RETURN Riane "Dictionar HNG-JPN" 15 2
+ADD_DEF "Dictionar KR-TR" middle rich
+RETURN Watts "Dictionar FR-CHN" 10 3
+RETURN Morton "Dictionar AR-CHN" 26 2
+ADD_BOOK "Dictionar RO-IND" 21
+powder damaged
+trail barbarous
+scintillating deliver
+useless one
+shoes telling
+analyze haircut
+abject boy
+plane living
+mom trust
+damp tearful
+handle settle
+big unaccountable
+abaft cultured
+fetch funny
+hate receptive
+hungry flavor
+honey roomy
+chubby whine
+flight cheerful
+hurried penitent
+chop irritating
+RETURN Emmalynn "Dictionar KR-JPN" 17 3
+RETURN McCrossen "Dictionar ESP-NOR" 2 1
+BORROW Pennewell "Dictionar CHN-AR" 9
+ADD_DEF "Dictionar KR-JPN" moldy lazy
+BORROW Lauren "Dictionar AR-DTH" 22
+BORROW Emmalynn "Dictionar JPN-POR" 8
+BORROW Watts "Dictionar JPN-RUS" 17
+GET_BOOK "Dictionar POR-HIN"
+ADD_DEF "Eric + Walsh = buzz" handle bead
+RETURN McConathy "Dictionar AR-GR" 10 4
+BORROW Mikayla "Dictionar FR-CHN" 9
+RMV_BOOK "Dictionar CHN-JPN"
+BORROW McConathy "Dictionar HNG-JPN" 12
+ADD_USER Shelia
+RETURN Emmalynn "Dictionar JPN-POR" 3 4
+BORROW Simpson "Dictionar AR-GR" 3
+BORROW Halvard "Dictionar RUS-AR" 22
+BORROW Marchelle "Dictionar IND-CHN" 28
+BORROW Young "Dictionar KR-TR" 26
+ADD_DEF "Dictionar JPN-ESP" somber add
+LOST Carol "Dictionar POR-HIN"
+BORROW Brittany "Dictionar ESP-NOR" 28
+GET_BOOK "Dictionar RO-IND"
+RETURN Lauren "Dictionar AR-DTH" 8 3
+ADD_USER Coulston
+GET_BOOK "Dictionar AR-CHN"
+RETURN Simpson "Dictionar AR-GR" 16 3
+ADD_DEF "Dictionar NOR-POR" woebegone class
+GET_DEF "Dictionar NOR-POR" acceptable
+LOST Watts "Dictionar JPN-RUS"
+BORROW Carol "Dictionar POR-DTH" 4
+RETURN Carol "Dictionar POR-DTH" 18 5
+BORROW Shelia "Dictionar AR-CHN" 23
+GET_DEF "Dictionar HNG-CHN" quizzical
+ADD_BOOK "Dictionar IND-RO" 12
+needle door
+sick nice
+country roomy
+important abundant
+boast noxious
+perform icy
+cattle material
+shallow obsolete
+robust belief
+astonishing face
+dream stamp
+skillful transport
+BORROW Coulston "Dictionar DTH-GR" 16
+GET_BOOK "Dictionar POR-DTH"
+RETURN Mikayla "Dictionar FR-CHN" 15 5
+ADD_BOOK "Dictionar HIN-AR" 30
+letters black-and-white
+sable spooky
+truculent fry
+heavenly umbrella
+food righteous
+exotic terrific
+system possess
+colossal quiet
+large stale
+wish bear
+yawn staking
+pigs watch
+optimal colossal
+tap rot
+mark pat
+charge mate
+zesty swift
+resolute position
+sense reproduce
+turn lazy
+nut release
+pink respect
+country bushes
+sour quill
+robin cloudy
+view berry
+rush pleasure
+dangerous frame
+freezing comparison
+fire extra-large
+RETURN McConathy "Dictionar HNG-JPN" 12 1
+BORROW McCrossen "Dictionar AR-DTH" 7
+RMV_BOOK "Dictionar KR-HIN"
+ADD_BOOK "Dictionar ESP-IND" 24
+egg scissors
+giddy few
+educate ugliest
+early useful
+pencil glow
+groan farm
+advise deafening
+determined pickle
+magical feeble
+rabbit boy
+general adhesive
+suck tasteful
+grouchy perpetual
+murder add
+mark greasy
+fold books
+mammoth ubiquitous
+excite red
+scream snotty
+fumbling jewel
+trousers flight
+lumpy frightening
+foregoing cluttered
+honey capable
+GET_BOOK "Dictionar JPN-POR"
+ADD_BOOK "Dictionar AR-RUS" 14
+repulsive flimsy
+desire stem
+humorous lovely
+general country
+lovely frail
+blood potato
+complete bath
+nutritious shirt
+carve flood
+crib common
+suggestion old-fashioned
+horn obese
+cute luxuriant
+expensive dirty
+BORROW Valenzuela "Dictionar FR-CHN" 3
+LOST Brittany "Dictionar ESP-NOR"
+BORROW Yalonda "Dictionar AR-GR" 25
+ADD_USER McKenny
+RETURN Yalonda "Dictionar AR-GR" 3 5
+GET_BOOK "Dictionar TR-FR"
+RETURN Valenzuela "Dictionar FR-CHN" 14 5
+BORROW Mikayla "Dictionar GR-KR" 1
+BORROW Riane "Dictionar AR-DTH" 2
+ADD_USER Margaret
+GET_BOOK "Dictionar RUS-AR"
+BORROW Carol "Dictionar AR-GR" 30
+GET_DEF "Dictionar AR-GR" shivering
+ADD_USER Barnes
+ADD_DEF "Dictionar DTH-GR" staking complain
+RETURN Pennewell "Dictionar CHN-AR" 17 5
+BORROW Kellerhals "Dictionar HNG-CHN" 9
+GET_DEF "Dictionar GR-KR" creature
+ADD_DEF "Dictionar KR-TR" bulb repeat
+RETURN Young "Dictionar KR-TR" 7 5
+ADD_BOOK "Dictionar FR-EN" 0
+BORROW Young "Dictionar POR-DTH" 24
+BORROW Brittany "Dictionar KR-TR" 24
+RETURN Kellerhals "Dictionar HNG-CHN" 3 2
+RETURN Halvard "Dictionar RUS-AR" 7 4
+BORROW Valenzuela "Dictionar KR-JPN" 25
+RETURN Brittany "Dictionar KR-TR" 11 5
+BORROW Pennewell "Dictionar ESP-IND" 20
+BORROW Marchelle "Dictionar KR-JPN" 5
+RETURN Morton "Dictionar HIN-AR" 21 1
+ADD_DEF "Dictionar HIN-AR" confuse unable
+RETURN Shelia "Dictionar AR-CHN" 24 3
+BORROW Shelia "Dictionar JPN-POR" 23
+GET_DEF "Dictionar POR-DTH" oven
+RETURN Coulston "Dictionar DTH-GR" 26 1
+GET_DEF "Dictionar KR-JPN" handle
+RETURN Carol "Dictionar AR-GR" 19 3
+BORROW Brittany "Dictionar FR-EN" 20
+RETURN Mikayla "Dictionar GR-KR" 30 2
+ADD_DEF "Dictionar NOR-POR" trap star
+BORROW Kellerhals "Dictionar EN-POR" 27
+ADD_DEF "Dictionar AR-CHN" attract stomach
+GET_DEF "Dictionar POR-DTH" clumsy
+ADD_DEF "Dictionar ESP-IND" eye bury
+RETURN Rendahl "Dictionar TR-FR" 8 2
+RETURN McCrossen "Dictionar AR-DTH" 13 3
+GET_DEF "Dictionar HNG-RO" moaning
+GET_BOOK "Dictionar KR-JPN"
+RETURN Kellerhals "Dictionar EN-POR" 12 5
+RETURN Pennewell "Dictionar ESP-IND" 3 1
+RETURN Young "Dictionar POR-DTH" 14 3
+ADD_BOOK "Dictionar RO-KR" 0
+GET_BOOK "Dictionar RO-AR"
+RETURN Valenzuela "Dictionar KR-JPN" 29 4
+ADD_BOOK "Dictionar DTH-JPN" 0
+RETURN Brittany "Dictionar FR-EN" 20 4
+GET_BOOK "Dictionar AR-HNG"
+GET_DEF "Dictionar GR-HIN" yarn
+GET_BOOK "Dictionar HIN-AR"
+BORROW Barnes "Dictionar KR-TR" 25
+RETURN Shelia "Dictionar JPN-POR" 15 4
+BORROW Margaret "Dictionar AR-CHN" 18
+RETURN Margaret "Dictionar AR-CHN" 10 2
+BORROW McCrossen "Dictionar IND-RO" 17
+ADD_DEF "Dictionar RO-KR" interfere jar
+GET_BOOK "Dictionar CHN-AR"
+BORROW Valenzuela "Dictionar HNG-CHN" 8
+BORROW Emmalynn "Dictionar NOR-POR" 8
+BORROW Young "Dictionar FR-EN" 21
+GET_DEF "Dictionar RO-IND" chubby
+ADD_DEF "Dictionar NOR-POR" thin silver
+ADD_DEF "Dictionar FR-EN" boil brass
+BORROW Rendahl "Dictionar DTH-JPN" 1
+RETURN Marchelle "Dictionar IND-CHN" 4 3
+RMV_BOOK "Dictionar HIN-IND"
+GET_BOOK "Dictionar GR-KR"
+GET_DEF "Dictionar IND-RO" shallow
+RETURN Young "Dictionar FR-EN" 2 1
+BORROW Pennewell "Dictionar EN-POR" 11
+GET_DEF "Dictionar HNG-JPN" grab
+RETURN Pennewell "Dictionar EN-POR" 28 3
+ADD_BOOK "Dictionar RUS-POR" 29
+skinny building
+bushes locket
+exist steel
+foolish undress
+fruit grade
+try uncovered
+guide slave
+texture real
+race inform
+tenuous belong
+abrasive bury
+raise rough
+melt lamp
+colossal waste
+warn discovery
+pack expect
+preserve tasteful
+nondescript range
+radiate nerve
+silk mountainous
+money lyrical
+shop accessible
+smash pat
+bubble keen
+wish oven
+vengeful parsimonious
+shut finger
+military beef
+industrious order
+BORROW Coulston "Dictionar RUS-AR" 16
+ADD_BOOK "Dictionar HIN-RUS" 6
+nostalgic joyous
+bloody jewel
+quack real
+standing fold
+bubble abortive
+heavenly protective
+RETURN Valenzuela "Dictionar HNG-CHN" 26 2
+ADD_USER Coulston
+LOST Emmalynn "Dictionar NOR-POR"
+BORROW Pennewell "Dictionar AR-CHN" 24
+ADD_DEF "Dictionar RUS-POR" preserve practice
+BORROW Mikayla "Dictionar CHN-AR" 6
+ADD_DEF "Dictionar FR-CHN" dock engine
+GET_BOOK "Dictionar TR-FR"
+RETURN Coulston "Dictionar RUS-AR" 25 4
+BORROW Coulston "Dictionar AR-GR" 9
+ADD_BOOK "Dictionar IT-NOR" 30
+trade park
+delirious income
+brave cows
+sail huge
+store notice
+kaput miss
+wrap moaning
+complain gainful
+attack ajar
+language laugh
+jeans kneel
+spell guide
+itchy size
+jittery unkempt
+boiling breathe
+grain dusty
+tested rail
+songs ignore
+hollow mature
+rice dinner
+retire disagree
+rat vulgar
+stupid lumber
+milk hat
+healthy shoes
+plough hobbies
+bird stir
+finger abject
+difficult numerous
+nimble reject
+BORROW McKenny "Dictionar AR-DTH" 4
+ADD_DEF "Dictionar IND-RO" useful ruthless
+GET_BOOK "Jensen + Alfred = brother"
+BORROW Kellerhals "Dictionar FR-CHN" 1
+GET_DEF "Dictionar FR-EN" boil
+ADD_DEF "Dictionar ESP-NOR" harm include
+GET_DEF "Dictionar KR-TR" ready
+RMV_BOOK "Dictionar POR-DTH"
+ADD_USER Marchelle
+ADD_BOOK "Dictionar IT-JPN" 7
+wail cabbage
+simplistic sponge
+flame cover
+scold recondite
+amused flock
+measure longing
+basketball terrific
+GET_DEF "Dictionar RUS-POR" exist
+BORROW Valenzuela "Dictionar RUS-AR" 9
+RETURN Kellerhals "Dictionar FR-CHN" 8 3
+GET_BOOK "Dictionar AR-CHN"
+GET_DEF "Dictionar DTH-GR" burn
+ADD_DEF "Dictionar JPN-POR" treat thoughtful
+RMV_BOOK "Dictionar IND-CHN"
+BORROW Kellerhals "Dictionar ESP-IND" 8
+ADD_DEF "Leelah + Spence = interfere" honey popcorn
+GET_DEF "Dictionar CHN-HIN" love
+RMV_DEF "Dictionar AR-RUS" crib
+BORROW Marchelle "Dictionar RO-IND" 7
+RETURN Marchelle "Dictionar RO-IND" 25 2
+RETURN Pennewell "Dictionar AR-CHN" 19 1
+BORROW Emmalynn "Dictionar KR-JPN" 19
+BORROW Margaret "Dictionar HIN-AR" 0
+BORROW Adrian "Dictionar EN-POR" 10
+BORROW McConathy "Dictionar RO-KR" 1
+ADD_DEF "Dictionar IT-NOR" improve cow
+GET_DEF "Dictionar KR-JPN" moldy
+GET_DEF "Dictionar AR-GR" ill-fated
+GET_DEF "Dictionar RO-IND" useless
+BORROW Shelia "Dictionar FR-IT" 7
+BORROW Lauren "Dictionar AR-RUS" 16
+ADD_USER Marilyn
+GET_DEF "Dictionar HNG-JPN" gifted
+RETURN Rendahl "Dictionar DTH-JPN" 26 2
+BORROW Marilyn "Dictionar DTH-GR" 20
+GET_DEF "Dictionar KR-TR" agree
+RETURN McKenny "Dictionar AR-DTH" 21 2
+ADD_BOOK "Dictionar IT-IND" 14
+protest drink
+confused bells
+innocent tenuous
+boring scissors
+wry material
+hope channel
+toe start
+payment hurried
+delay shirt
+capricious camera
+bedroom flood
+hands humdrum
+maid sand
+verdant trick
+BORROW Morton "Dictionar DTH-GR" 23
+ADD_BOOK "Dictionar CHN-RO" 21
+hanging end
+zoom nondescript
+confess request
+dear listen
+switch butter
+veil song
+impartial saw
+dispensable steel
+unusual honey
+pray steadfast
+tin reply
+pointless hair
+pencil homely
+theory knowing
+fax lake
+wonder blade
+cabbage wren
+bike high
+abrasive pets
+well-to-do burst
+sore tour
+BORROW Yalonda "Dictionar FR-EN" 29
+RETURN McConathy "Dictionar RO-KR" 1 4
+GET_BOOK "Dictionar ESP-IND"
+RMV_BOOK "Dictionar TR-FR"
+RETURN Mikayla "Dictionar CHN-AR" 7 2
+GET_BOOK "Dictionar FR-CHN"
+ADD_DEF "Dictionar AR-DTH" super day
+ADD_BOOK "Dictionar DTH-IT" 15
+jelly tense
+argument unused
+onerous eggnog
+plants anxious
+need past
+lamentable warm
+placid yawn
+iron sin
+boundless daily
+detailed exist
+normal airport
+ragged sincere
+prefer name
+pizzas throat
+trouble cheerful
+ADD_DEF "Dictionar RO-KR" creepy heal
+BORROW Carol "Dictionar AR-HNG" 7
+RETURN Emmalynn "Dictionar KR-JPN" 25 2
+GET_DEF "Dictionar DTH-IT" parcel
+BORROW Mikayla "Dictionar CHN-RO" 20
+BORROW Emmalynn "Dictionar JPN-POR" 2
+RETURN Mikayla "Dictionar CHN-RO" 12 4
+ADD_DEF "Dictionar AR-HNG" exercise celery
+ADD_DEF "Dictionar POR-IND" observe prick
+RETURN Margaret "Dictionar HIN-AR" 9 4
+BORROW McKenny "Dictionar CHN-RO" 23
+GET_BOOK "Dictionar HIN-POR"
+GET_BOOK "Dictionar AR-KR"
+BORROW Halvard "Dictionar HIN-AR" 7
+GET_DEF "Dictionar RO-GR" late
+ADD_DEF "Dictionar AR-DTH" grateful bead
+RETURN Kellerhals "Dictionar ESP-IND" 16 5
+BORROW Brittany "Dictionar GR-KR" 24
+BORROW Marchelle "Dictionar HNG-CHN" 27
+ADD_BOOK "Dictionar DTH-RO" 28
+ashamed windy
+cloistered hospitable
+tacit necessary
+fold branch
+untidy periodic
+absorbing health
+hallowed adamant
+charge dirt
+uncovered float
+punch verse
+toad zealous
+prefer ban
+jealous dizzy
+inexpensive quaint
+happy jewel
+zinc furtive
+chief doctor
+bloody crawl
+superb dashing
+frightened bag
+young science
+friction glue
+identify jump
+abstracted paste
+sore one
+sticks low
+opposite trail
+direction books
+GET_BOOK "Dictionar HIN-AR"
+GET_DEF "Dictionar IT-IND" cheat
+BORROW McConathy "Dictionar ESP-IND" 1
+RETURN Barnes "Dictionar KR-TR" 10 4
+RMV_DEF "Dictionar IT-NOR" delirious
+RETURN Brittany "Dictionar GR-KR" 6 5
+RETURN Marchelle "Dictionar HNG-CHN" 26 1
+ADD_BOOK "Dictionar HNG-POR" 23
+disagreeable uncle
+haunt flame
+sort trap
+branch tense
+tasteful past
+utter quiet
+sudden equal
+mind notice
+offbeat swing
+coach boot
+delirious press
+uppity truculent
+steer wall
+connect glistening
+wicked observe
+shocking late
+education rapid
+vegetable tasteless
+seed thundering
+accurate design
+wall dreary
+second defeated
+lopsided five
+ADD_USER Reginald
+RETURN Emmalynn "Dictionar JPN-POR" 30 1
+RETURN Valenzuela "Dictionar RUS-AR" 6 4
+BORROW Marchelle "Dictionar KR-TR" 22
+BORROW Pennewell "Dictionar RUS-POR" 23
+BORROW Barnes "Dictionar IT-IND" 24
+ADD_DEF "Dictionar RUS-AR" healthy saw
+GET_DEF "Dictionar IT-NOR" wrap
+RMV_DEF "Dictionar KR-JPN" moldy
+BORROW Kellerhals "Dictionar HNG-JPN" 18
+GET_DEF "Dictionar HIN-AR" sense
+ADD_DEF "Dictionar EN-POR" wire books
+BORROW Valenzuela "Dictionar GR-KR" 3
+ADD_USER Alpa
+GET_BOOK "Dictionar JPN-HIN"
+RETURN McCrossen "Dictionar IND-RO" 8 3
+ADD_BOOK "Dictionar HIN-KR" 7
+safe boast
+wasteful collar
+absorbing engine
+caring needless
+grass sponge
+paste penitent
+jaded settle
+ADD_DEF "Dictionar ESP-IND" general fresh
+GET_DEF "Dictionar AR-HNG" productive
+RETURN Carol "Dictionar AR-HNG" 3 1
+BORROW Mikayla "Dictionar RUS-POR" 1
+GET_BOOK "Dictionar RUS-POR"
+BORROW Mikayla "Dictionar HNG-POR" 23
+GET_DEF "Dictionar DTH-IT" normal
+BORROW Brittany "Dictionar HIN-RUS" 0
+BORROW Young "Dictionar KR-JPN" 1
+RETURN Adrian "Dictionar EN-POR" 12 2
+ADD_USER Natalie
+RETURN Kellerhals "Dictionar HNG-JPN" 15 3
+GET_DEF "Dictionar AR-CHN" moan
+BORROW Margaret "Dictionar HIN-KR" 22
+ADD_USER Marc
+RETURN Halvard "Dictionar HIN-AR" 13 4
+GET_DEF "Dictionar DTH-RO" zinc
+ADD_BOOK "Dictionar AR-JPN" 28
+drip chief
+high-pitched vigorous
+appreciate jaded
+workable tour
+amuck instrument
+rhyme terrific
+tree numberless
+like nail
+fanatical apathetic
+queue fairies
+trade basketball
+orange long-term
+aspiring please
+x-ray uncovered
+border quince
+perform oranges
+fumbling clammy
+kitty feigned
+hop voracious
+fuel blood
+shelf attraction
+bang sharp
+request listen
+crate fantastic
+wry weak
+soap celery
+stir momentous
+wonder lavish
+RETURN Valenzuela "Dictionar GR-KR" 17 5
+GET_DEF "Dictionar HIN-RUS" nostalgic
+GET_DEF "Dictionar AR-DTH" spotted
+RETURN Yalonda "Dictionar FR-EN" 22 4
+RETURN Margaret "Dictionar HIN-KR" 3 5
+RETURN Young "Dictionar KR-JPN" 15 5
+GET_DEF "Dictionar AR-JPN" nauseating
+GET_BOOK "Dictionar IT-JPN"
+BORROW Carol "Dictionar CHN-AR" 16
+GET_BOOK "Dictionar FR-CHN"
+BORROW Young "Dictionar AR-CHN" 16
+GET_BOOK "Dictionar DTH-RO"
+BORROW Marc "Dictionar FR-CHN" 0
+BORROW Natalie "Dictionar FR-CHN" 0
+RETURN Marchelle "Dictionar KR-TR" 15 5
+RETURN Brittany "Dictionar HIN-RUS" 10 3
+RETURN Marilyn "Dictionar DTH-GR" 17 1
+ADD_BOOK "Dictionar POR-EN" 5
+hug unbiased
+lavish alleged
+descriptive pocket
+light regular
+consist guiltless
+BORROW Reginald "Dictionar JPN-POR" 14
+ADD_USER Galyon
+ADD_DEF "Dictionar DTH-RO" jealous remarkable
+GET_BOOK "Dictionar AR-CHN"
+BORROW Natalie "Dictionar IND-RO" 12
+RETURN Reginald "Dictionar JPN-POR" 15 3
+BORROW Margaret "Dictionar KR-JPN" 12
+RETURN Young "Dictionar AR-CHN" 22 3
+ADD_DEF "Dictionar IND-RO" deliver thirsty
+BORROW Reginald "Dictionar HIN-RUS" 3
+ADD_USER Purdie
+RETURN Mikayla "Dictionar HNG-POR" 9 3
+RETURN Lauren "Dictionar AR-RUS" 22 4
+RETURN Carol "Dictionar CHN-AR" 23 1
+BORROW Lauren "Dictionar AR-CHN" 25
+ADD_USER Martha
+RMV_BOOK "Dictionar HIN-KR"
+RETURN Lauren "Dictionar AR-CHN" 27 4
+ADD_USER Sonya
+GET_BOOK "Dictionar HNG-POR"
+GET_BOOK "Dictionar DTH-JPN"
+BORROW Lauren "Dictionar CHN-RO" 1
+GET_BOOK "Dictionar HIN-IT"
+RMV_BOOK "Dictionar IT-NOR"
+RETURN Reginald "Dictionar HIN-RUS" 4 5
+RETURN McKenny "Dictionar CHN-RO" 12 2
+BORROW Marilyn "Dictionar DTH-JPN" 6
+GET_BOOK "Dictionar IT-IND"
+ADD_DEF "Elissa + Accurso = dangerous" vulgar advice
+ADD_BOOK "Dictionar NOR-IT" 5
+roomy bottle
+dogs history
+chickens point
+bell rinse
+ratty kaput
+RETURN Margaret "Dictionar KR-JPN" 28 1
+BORROW Shelia "Dictionar DTH-IT" 28
+RETURN Marc "Dictionar FR-CHN" 11 4
+ADD_USER Andersen
+GET_DEF "Dictionar AR-GR" pine
+GET_DEF "Dictionar IND-RO" inconclusive
+RETURN McConathy "Dictionar ESP-IND" 9 1
+BORROW McConathy "Dictionar FR-EN" 21
+BORROW McKenny "Dictionar CHN-RO" 28
+ADD_DEF "Dictionar KR-JPN" moldy colossal
+BORROW Margaret "Dictionar AR-DTH" 6
+RETURN Margaret "Dictionar AR-DTH" 5 5
+RETURN Shelia "Dictionar DTH-IT" 13 4
+BORROW Sonya "Dictionar HNG-JPN" 29
+BORROW Martha "Dictionar RUS-AR" 24
+RETURN Pennewell "Dictionar RUS-POR" 29 3
+ADD_BOOK "Dictionar CHN-GR" 24
+ruddy scattered
+dispensable bone
+direful glorious
+plant kaput
+uptight sharp
+church auspicious
+best flavor
+materialistic crush
+scare evanescent
+prepare steadfast
+deceive perfect
+back abashed
+pizzas precede
+fat plantation
+extend condition
+undesirable wealth
+own lucky
+ice godly
+wonderful nippy
+pumped tough
+language beds
+way straight
+mom paddle
+stereotyped beds
+RETURN McConathy "Dictionar FR-EN" 23 4
+ADD_USER Mikayla
+RMV_DEF "Dictionar HIN-AR" confuse
+RETURN Barnes "Dictionar IT-IND" 25 4
+GET_BOOK "Dictionar RUS-AR"
+GET_BOOK "Dictionar ESP-IND"
+BORROW Marc "Dictionar GR-KR" 30
+ADD_USER Colin
+ADD_DEF "Dictionar POR-EN" somber amused
+ADD_BOOK "Dictionar NOR-TR" 8
+lunch sidewalk
+work reading
+overt double
+friend look
+sparkle theory
+knotty whip
+eggs blot
+modern wealthy
+ADD_DEF "Dictionar HIN-RUS" nostalgic right
+RETURN McKenny "Dictionar CHN-RO" 27 4
+RETURN Natalie "Dictionar IND-RO" 14 5
+ADD_DEF "Dictionar FR-CHN" crash pray
+ADD_DEF "Dictionar IT-IND" woebegone stew
+BORROW Alpa "Dictionar POR-EN" 28
+GET_BOOK "Dictionar GR-KR"
+ADD_DEF "Dictionar DTH-RO" blushing lackadaisical
+BORROW Natalie "Dictionar HIN-RUS" 0
+BORROW McConathy "Dictionar ESP-IND" 10
+RETURN Marilyn "Dictionar DTH-JPN" 30 5
+GET_DEF "Dictionar ESP-HNG" relieved
+RETURN Coulston "Dictionar AR-GR" 29 5
+ADD_DEF "Dictionar IT-IND" wretched imaginary
+BORROW Adrian "Dictionar EN-POR" 11
+BORROW Mikayla "Dictionar FR-EN" 4
+GET_DEF "Dictionar CHN-RO" cabbage
+ADD_DEF "Dictionar CHN-GR" back nose
+BORROW Carol "Dictionar KR-TR" 17
+GET_DEF "Dictionar NOR-IT" ratty
+ADD_USER Jerry
+BORROW Jerry "Dictionar AR-CHN" 29
+BORROW Barnes "Dictionar IT-IND" 7
+GET_BOOK "Dictionar RO-IND"
+BORROW Halvard "Dictionar AR-JPN" 27
+ADD_DEF "Dictionar AR-DTH" guide share
+RMV_DEF "Dictionar KR-TR" position
+BORROW Pennewell "Dictionar DTH-GR" 7
+RETURN Natalie "Dictionar HIN-RUS" 28 4
+BORROW Reginald "Dictionar JPN-POR" 28
+ADD_DEF "Dictionar CHN-GR" blink examine
+BORROW McKenny "Dictionar AR-RUS" 11
+RETURN Alpa "Dictionar POR-EN" 20 4
+BORROW Galyon "Dictionar FR-CHN" 21
+GET_BOOK "Dictionar HNG-POR"
+RMV_BOOK "Dictionar DTH-IT"
+GET_BOOK "Jesus + Odonnell = malicious"
+RETURN McKenny "Dictionar AR-RUS" 18 2
+ADD_DEF "Dictionar IT-IND" delay tenuous
+ADD_DEF "Dictionar DTH-RO" devilish knowledge
+RETURN Sonya "Dictionar HNG-JPN" 14 5
+GET_BOOK "Dictionar NOR-CHN"
+ADD_BOOK "Dictionar JPN-DTH" 18
+screw tap
+discovery dime
+swim berserk
+unequaled furtive
+grandfather irritate
+temporary nutty
+measly unkempt
+unbecoming texture
+prepare outstanding
+tiger filthy
+reduce noisy
+nimble swanky
+tidy amazing
+moon flesh
+ruthless tie
+scale scare
+rock disagree
+mate horn
+RETURN Mikayla "Dictionar FR-EN" 21 1
+ADD_DEF "Dictionar CHN-RO" show defeated
+RETURN Marc "Dictionar GR-KR" 26 5
+BORROW Marchelle "Dictionar HNG-JPN" 20
+BORROW Kellerhals "Dictionar POR-EN" 27
+BORROW Natalie "Dictionar NOR-IT" 30
+BORROW Margaret "Dictionar CHN-GR" 13
+BORROW Andersen "Dictionar HIN-RUS" 29
+RETURN Pennewell "Dictionar DTH-GR" 24 2
+GET_BOOK "Dictionar FR-CHN"
+BORROW Sonya "Dictionar JPN-DTH" 12
+RETURN Adrian "Dictionar EN-POR" 18 3
+BORROW McCrossen "Dictionar HIN-AR" 28
+ADD_USER Yalonda
+RETURN Marchelle "Dictionar HNG-JPN" 10 5
+GET_BOOK "Dictionar AR-GR"
+BORROW Lauren "Dictionar HNG-JPN" 4
+RETURN Sonya "Dictionar JPN-DTH" 29 1
+RETURN Kellerhals "Dictionar POR-EN" 2 5
+GET_DEF "Dictionar HNG-JPN" versed
+ADD_DEF "Dictionar RO-KR" interfere purring
+BORROW Valenzuela "Dictionar GR-KR" 14
+GET_DEF "Dictionar RO-KR" hospitable
+RMV_DEF "Dictionar HIN-POR" flashy
+BORROW Marc "Dictionar HNG-CHN" 29
+BORROW Valenzuela "Dictionar KR-AR" 21
+ADD_USER Bears
+RETURN Lauren "Dictionar HNG-JPN" 6 4
+BORROW Watts "Dictionar DTH-JPN" 28
+RETURN Halvard "Dictionar AR-JPN" 3 3
+RMV_BOOK "Dictionar IT-JPN"
+RETURN Natalie "Dictionar NOR-IT" 25 2
+ADD_USER Thistlethwaite
+BORROW Kellerhals "Dictionar DTH-RO" 12
+RETURN Valenzuela "Dictionar GR-KR" 4 5
+GET_BOOK "Dictionar HNG-POR"
+RETURN McConathy "Dictionar ESP-IND" 2 5
+BORROW Alpa "Dictionar JPN-DTH" 20
+ADD_BOOK "Dictionar NOR-DTH" 18
+enormous truck
+abundant kettle
+probable supply
+peck square
+blade muddled
+sore helpful
+stare wine
+wave growth
+superb detailed
+channel forgetful
+slow tremble
+sulky gold
+judge punish
+three observation
+difficult hum
+delight shoe
+idiotic thick
+compete men
+BORROW Lauren "Dictionar RO-KR" 17
+BORROW Thistlethwaite "Dictionar AR-JPN" 30
+RETURN Thistlethwaite "Dictionar AR-JPN" 8 2
+RETURN Jerry "Dictionar AR-CHN" 4 5
+ADD_DEF "Dictionar HIN-CHN" correct alleged
+BORROW Young "Dictionar ESP-IND" 23
+RETURN Marc "Dictionar HNG-CHN" 30 3
+ADD_USER Alpa
+GET_DEF "Dictionar ESP-JPN" horrible
+RETURN Galyon "Dictionar FR-CHN" 30 1
+BORROW Jerry "Dictionar NOR-DTH" 6
+RETURN Carol "Dictionar KR-TR" 13 5
+RETURN Jerry "Dictionar NOR-DTH" 25 1
+ADD_DEF "Dictionar EN-POR" income smoke
+BORROW Marc "Dictionar CHN-RO" 12
+RETURN McCrossen "Dictionar HIN-AR" 1 3
+BORROW Purdie "Dictionar EN-POR" 15
+LOST Barnes "Dictionar IT-IND"
+ADD_DEF "Dictionar HNG-CHN" elastic swim
+ADD_BOOK "Dictionar RUS-RO" 5
+cannon suggest
+toes rat
+enormous flow
+second oval
+behave nutty
+RETURN Martha "Dictionar RUS-AR" 18 1
+RETURN Margaret "Dictionar CHN-GR" 3 2
+RETURN Reginald "Dictionar JPN-POR" 19 3
+GET_BOOK "Dictionar HNG-CHN"
+ADD_BOOK "Dictionar FR-TR" 8
+adamant desk
+look serve
+reflective fool
+greet remove
+kick ratty
+puncture hour
+rainstorm knotty
+billowy daily
+ADD_DEF "Dictionar RO-KR" trucks attend
+BORROW Kellerhals "Dictionar CHN-RO" 8
+BORROW McKenny "Dictionar AR-HNG" 30
+BORROW Morton "Dictionar HNG-POR" 17
+BORROW Natalie "Dictionar NOR-TR" 9
+BORROW Halvard "Dictionar AR-GR" 6
+ADD_BOOK "Dictionar ESP-RO" 24
+ray brash
+ghost include
+noxious unfasten
+authority chalk
+literate compare
+march unkempt
+tin arm
+macho toys
+turn second-hand
+whine alive
+badge cuddly
+scream puzzling
+wry curly
+label present
+imminent baseball
+spray unfasten
+whimsical aberrant
+challenge zebra
+owe front
+cub desk
+verdant channel
+lacking blush
+beds bat
+swim applaud
+RETURN Glynn "Dictionar KR-TR" 22 1
+ADD_USER Mike
+BORROW McConathy "Dictionar HIN-AR" 25
+BORROW Carol "Dictionar AR-DTH" 11
+RETURN McConathy "Dictionar HIN-AR" 16 5
+RETURN Purdie "Dictionar EN-POR" 30 2
+GET_DEF "Dictionar NOR-IT" curved
+ADD_USER Miles
+RETURN Young "Dictionar ESP-IND" 10 5
+RETURN McKenny "Dictionar AR-HNG" 10 4
+BORROW Martha "Dictionar IND-RO" 27
+LOST Halvard "Dictionar AR-GR"
+RETURN Alpa "Dictionar JPN-DTH" 27 3
+RETURN Morton "Dictionar HNG-CHN" 24 3
+BORROW Colin "Dictionar DTH-GR" 18
+ADD_USER Jacky
+GET_BOOK "Dictionar HNG-POR"
+ADD_DEF "Dictionar RO-IND" magical polish
+RETURN Marc "Dictionar CHN-RO" 8 3
+ADD_BOOK "Dictionar CHN-FR" 4
+analyze valuable
+push afford
+teeth downtown
+calculating romantic
+BORROW Shelia "Dictionar DTH-JPN" 21
+GET_BOOK "Dictionar ESP-IND"
+BORROW McKenny "Dictionar CHN-FR" 6
+GET_BOOK "Dictionar DTH-GR"
+RETURN McKenny "Dictionar CHN-FR" 10 5
+RETURN Shelia "Dictionar DTH-JPN" 14 4
+GET_DEF "Dictionar FR-TR" puncture
+BORROW Jacky "Dictionar NOR-IT" 21
+RETURN Martha "Dictionar IND-RO" 1 5
+RETURN Carol "Dictionar AR-DTH" 27 3
+ADD_DEF "Dictionar DTH-GR" tire replace
+RETURN Andersen "Dictionar HIN-RUS" 27 5
+ADD_DEF "Dictionar AR-RUS" low jeans
+ADD_USER Jacky
+RETURN Lauren "Dictionar RO-KR" 21 4
+RMV_BOOK "Dictionar DTH-JPN"
+RETURN Natalie "Dictionar NOR-TR" 9 4
+BORROW Andersen "Dictionar RUS-AR" 13
+GET_BOOK "Axel + Kidd = lumber"
+RETURN Andersen "Dictionar RUS-AR" 21 4
+ADD_BOOK "Dictionar AR-NOR" 18
+fowl wash
+pinch grandfather
+flippant jam
+violent elfin
+meal actually
+sheep brief
+helpless decorate
+step provide
+bounce inform
+dream hurried
+drop knit
+apathetic short
+airplane back
+envious applaud
+weigh disillusioned
+credit recess
+island transport
+trap work
+BORROW Galyon "Dictionar ESP-IND" 29
+ADD_DEF "Dictionar RO-KR" military deeply
+BORROW Marilyn "Dictionar GR-KR" 11
+ADD_DEF "Dictionar ESP-IND" steer education
+GET_BOOK "Dictionar KR-JPN"
+ADD_USER Molina
+GET_BOOK "Dictionar AR-HNG"
+GET_BOOK "Dictionar ESP-RO"
+BORROW Barnes "Dictionar HIN-RUS" 8
+ADD_DEF "Ibarra + Matteucci = fit" pizzas leg
+GET_DEF "Dictionar RO-KR" interfere
+BORROW Thistlethwaite "Dictionar AR-NOR" 25
+BORROW Young "Dictionar KR-JPN" 8
+RETURN Young "Dictionar KR-JPN" 28 5
+RETURN Barnes "Dictionar HIN-RUS" 14 1
+RETURN Jacky "Dictionar NOR-IT" 9 3
+BORROW Halvard "Dictionar FR-CHN" 30
+BORROW Lauren "Dictionar RO-KR" 3
+RETURN Halvard "Dictionar FR-CHN" 28 2
+BORROW Valenzuela "Dictionar CHN-RO" 6
+ADD_USER Molina
+ADD_DEF "Dictionar HIN-POR" cobweb ubiquitous
+RETURN Thistlethwaite "Dictionar AR-NOR" 20 3
+GET_BOOK "Dictionar AR-RUS"
+BORROW Margaret "Dictionar JPN-HIN" 1
+ADD_DEF "Dictionar JPN-DTH" swim spicy
+GET_DEF "Dictionar HNG-JPN" tired
+BORROW Sonya "Dictionar HNG-CHN" 28
+RETURN Sonya "Dictionar HNG-CHN" 1 1
+ADD_USER Karim
+GET_BOOK "Dictionar AR-RUS"
+ADD_DEF "Dictionar RO-CHN" sturdy film
+BORROW Coulston "Dictionar AR-HNG" 10
+BORROW Young "Dictionar CHN-RO" 6
+ADD_USER Vaswani
+GET_BOOK "Dictionar POR-EN"
+GET_BOOK "Dictionar EN-POR"
+ADD_USER Sprengel
+BORROW Andersen "Dictionar AR-RUS" 21
+GET_BOOK "Lotti + Bacino = level"
+BORROW Jerry "Dictionar CHN-GR" 23
+EXIT

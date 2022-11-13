@@ -1,0 +1,69 @@
+ADD_BOOK "Dictionar CHN-GR" 9
+furniture eyes
+icy admire
+pedal cuddly
+agree grotesque
+current gaze
+encourage bone
+superficial safe
+screeching pricey
+wash insurance
+BORROW Potrykus "Dictionar EN-ESP" 9
+ADD_BOOK "Dictionar GR-IT" 9
+whispering birth
+shame fence
+include shoes
+keen smile
+ignorant cushion
+collar pedal
+legs rhyme
+last tickle
+refuse x-ray
+RMV_BOOK "Dictionar GR-IT"
+ADD_USER Halli
+BORROW Halli "Dictionar CHN-GR" 1
+GET_DEF "Dictionar CHN-GR" agree
+RETURN Halli "Dictionar CHN-GR" 2 4
+BORROW Halli "Dictionar CHN-GR" 1
+GET_BOOK "Dictionar CHN-GR"
+GET_BOOK "Dictionar CHN-GR"
+ADD_USER Halli
+GET_DEF "Dictionar CHN-GR" current
+RETURN Halli "Dictionar CHN-GR" 6 3
+ADD_USER Williamson
+BORROW Williamson "Dictionar CHN-GR" 5
+RMV_DEF "Dictionar CHN-GR" encourage
+LOST Williamson "Dictionar CHN-GR"
+ADD_USER Williamson
+ADD_USER Ardrey
+ADD_USER Williamson
+ADD_USER Ardrey
+ADD_DEF "$" harass disagree
+ADD_BOOK "Dictionar JPN-RUS" 1
+petite arrest
+GET_DEF "Dictionar JPN-RUS" petite
+BORROW Williamson "Dictionar JPN-RUS" 1
+RETURN Williamson "Dictionar JPN-RUS" 3 1
+ADD_DEF "Dictionar JPN-RUS" accessible grieving
+BORROW Williamson "Dictionar ESP-NOR" 4
+ADD_BOOK "Dictionar FR-HIN" 9
+hurried hobbies
+love pigs
+rinse gun
+attractive snotty
+board hard
+naive consider
+lunch program
+wrench sloppy
+functional earn
+GET_DEF "Dictionar CHN-HNG" exultant
+RMV_BOOK "Dictionar FR-HIN"
+ADD_DEF "Dictionar JPN-RUS" petite van
+ADD_DEF "Dictionar KR-JPN" unadvised plane
+RMV_DEF "Dictionar JPN-RUS" accessible
+BORROW Ardrey "Dictionar JPN-RUS" 4
+GET_DEF "Dictionar JPN-RUS" accessible
+GET_BOOK "Dictionar JPN-RUS"
+ADD_DEF "Dictionar JPN-RUS" profuse educated
+RETURN Ardrey "Dictionar JPN-RUS" 2 3
+EXIT

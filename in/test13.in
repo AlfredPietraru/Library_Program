@@ -1,0 +1,385 @@
+ADD_BOOK "Dictionar RUS-EN" 7
+nest book
+record coach
+appear hug
+cushion year
+trip soak
+bumpy super
+living apathetic
+GET_DEF "Dictionar RUS-EN" bumpy
+RMV_BOOK "Dictionar RUS-EN"
+ADD_USER Jenna
+ADD_DEF "$" twist bounce
+ADD_USER Cosette
+GET_BOOK "Mckenzie + Conti = hospitable"
+ADD_DEF "$" fair wander
+ADD_BOOK "Dictionar HIN-TR" 14
+overconfident snake
+geese visit
+dress honey
+ratty envious
+collect pray
+crook sail
+island blushing
+pretty mitten
+unruly team
+rhyme relation
+cause drown
+friction wreck
+watery statement
+blade deeply
+BORROW Cosette "Dictionar HIN-TR" 4
+RETURN Cosette "Dictionar HIN-TR" 0 1
+BORROW Cosette "Dictionar HIN-TR" 14
+RETURN Cosette "Dictionar HIN-TR" 11 3
+GET_DEF "Dictionar HIN-TR" science
+GET_BOOK "Dictionar HIN-TR"
+BORROW Jenna "Dictionar HIN-TR" 11
+RETURN Jenna "Dictionar HIN-TR" 1 5
+BORROW Jenna "Dictionar HIN-TR" 3
+RETURN Jenna "Dictionar HIN-TR" 7 1
+ADD_USER Kora
+BORROW Jenna "Dictionar HIN-TR" 14
+GET_DEF "Dictionar HIN-TR" cause
+ADD_DEF "Dictionar HIN-TR" bite activity
+RETURN Jenna "Dictionar HIN-TR" 4 3
+BORROW Jenna "Dictionar HIN-TR" 4
+RMV_DEF "Dictionar HIN-TR" dress
+RETURN Jenna "Dictionar HIN-TR" 14 4
+GET_DEF "Dictionar HIN-TR" island
+BORROW Jenna "Dictionar HIN-TR" 11
+RETURN Jenna "Dictionar HIN-TR" 5 3
+BORROW Cosette "Dictionar HIN-TR" 3
+BORROW Kora "Dictionar HIN-TR" 4
+RETURN Cosette "Dictionar HIN-TR" 2 3
+GET_DEF "Dictionar AR-JPN" loaf
+BORROW Cosette "Dictionar HIN-TR" 4
+ADD_USER Zornow
+ADD_BOOK "Dictionar NOR-ESP" 15
+applaud oval
+rambunctious vessel
+busy escape
+fit bashful
+adjustment steep
+jolly ignorant
+mature agonizing
+songs nutritious
+market writer
+door airport
+fortunate actor
+glossy selection
+thoughtful bit
+real dam
+boring party
+RETURN Cosette "Dictionar HIN-TR" 12 2
+GET_BOOK "Dictionar NOR-ESP"
+RMV_DEF "Dictionar NOR-ESP" adjustment
+ADD_BOOK "Dictionar TR-HIN" 15
+self petite
+ray inexpensive
+one writing
+recognise sweltering
+field daffy
+nonstop cycle
+price hard-to-find
+burst bounce
+gentle tour
+mellow meek
+voyage exultant
+greasy tangy
+bump obscene
+dependent shape
+outstanding juggle
+BORROW Kora "Dictionar TR-HIN" 6
+ADD_DEF "Dictionar HIN-TR" merciful kettle
+ADD_DEF "Dictionar TR-HIN" recognise hand
+RETURN Kora "Dictionar TR-HIN" 15 5
+ADD_DEF "Dictionar HIN-TR" star record
+BORROW Cosette "Dictionar TR-HIN" 16
+RETURN Cosette "Dictionar TR-HIN" 10 1
+GET_DEF "Dictionar TR-HIN" dependent
+BORROW Jenna "Dictionar HIN-TR" 0
+ADD_BOOK "Dictionar HIN-POR" 0
+RETURN Jenna "Dictionar HIN-TR" 15 3
+ADD_BOOK "Dictionar RO-RUS" 12
+flippant overjoyed
+disagree locket
+advise pie
+man aloof
+level knot
+fit eggs
+theory miniature
+clip allow
+drain profit
+verdant card
+lonely burly
+jealous erratic
+ADD_DEF "Dictionar RO-RUS" imagine chilly
+BORROW Zornow "Dictionar TR-HIN" 10
+GET_BOOK "Dictionar HIN-TR"
+ADD_BOOK "Dictionar GR-POR" 16
+pine excuse
+salt toys
+crooked faulty
+hissing soap
+blue-eyed modern
+drip cynical
+error perform
+equable cheerful
+meaty kettle
+ladybug obese
+early creepy
+dusty like
+drag blush
+space part
+classy smelly
+deliver obtain
+BORROW Jenna "Dictionar HIN-TR" 14
+ADD_BOOK "Dictionar EN-RUS" 5
+moan plant
+noxious bent
+joke steer
+glove rabid
+sniff befitting
+RETURN Jenna "Dictionar HIN-TR" 15 2
+RETURN Zornow "Dictionar TR-HIN" 8 1
+GET_DEF "Dictionar NOR-ESP" market
+GET_BOOK "Dictionar EN-RUS"
+BORROW Kora "Dictionar NOR-ESP" 6
+BORROW Cosette "Dictionar TR-HIN" 8
+BORROW Zornow "Dictionar HIN-TR" 7
+RETURN Cosette "Dictionar TR-HIN" 10 1
+BORROW Jenna "Dictionar HIN-POR" 15
+BORROW Cosette "Dictionar TR-HIN" 10
+ADD_DEF "Dictionar NOR-ESP" door doubt
+RETURN Kora "Dictionar NOR-ESP" 4 3
+RETURN Zornow "Dictionar HIN-TR" 1 5
+RETURN Jenna "Dictionar HIN-POR" 10 5
+ADD_DEF "Dictionar GR-POR" error heavenly
+ADD_DEF "Dictionar GR-POR" ladybug crabby
+RETURN Cosette "Dictionar TR-HIN" 4 5
+BORROW Zornow "Dictionar RO-RUS" 6
+GET_BOOK "Johnson + Hooper = hunt"
+RETURN Zornow "Dictionar RO-RUS" 6 2
+BORROW Cosette "Dictionar GR-POR" 8
+BORROW Zornow "Dictionar RO-RUS" 11
+BORROW Jenna "Dictionar EN-RUS" 4
+BORROW Kora "Dictionar NOR-ESP" 9
+RETURN Jenna "Dictionar EN-RUS" 14 2
+ADD_USER Kora
+ADD_DEF "Dictionar NOR-ESP" salt quarrelsome
+BORROW Jenna "Dictionar HIN-POR" 5
+BORROW Cosette "Dictionar HIN-TR" 10
+RETURN Zornow "Dictionar RO-RUS" 15 1
+ADD_USER Gilbert
+ADD_USER Eastwood
+BORROW Zornow "Dictionar HIN-TR" 0
+ADD_USER Lacey
+RETURN Kora "Dictionar NOR-ESP" 9 1
+RETURN Cosette "Dictionar GR-POR" 3 4
+RETURN Jenna "Dictionar HIN-POR" 16 4
+ADD_DEF "Juarez + Dru = fireman" toy film
+RETURN Zornow "Dictionar HIN-TR" 9 2
+ADD_DEF "Dictionar TR-HIN" feeble use
+BORROW Kora "Dictionar HIN-TR" 7
+BORROW Lacey "Dictionar RO-RUS" 12
+RETURN Lacey "Dictionar RO-RUS" 13 5
+ADD_BOOK "Dictionar AR-IND" 15
+smelly cultured
+painful deserve
+unite promise
+lopsided steadfast
+fear pump
+cat calm
+knock dependent
+thin detailed
+boil type
+picture material
+forgetful hover
+colossal rampant
+sulky male
+handy cushion
+follow common
+ADD_DEF "Dictionar GR-POR" meaty punishment
+GET_DEF "Dictionar EN-RUS" moan
+BORROW Gilbert "Dictionar EN-RUS" 12
+BORROW Eastwood "Dictionar TR-HIN" 11
+RETURN Eastwood "Dictionar TR-HIN" 0 1
+ADD_DEF "Dictionar HIN-TR" gate sheet
+RETURN Kora "Dictionar HIN-TR" 7 5
+BORROW Eastwood "Dictionar GR-POR" 1
+ADD_USER Angela
+RETURN Gilbert "Dictionar EN-RUS" 6 4
+ADD_DEF "Dictionar TR-HIN" rain passenger
+ADD_USER Burns
+BORROW Eastwood "Dictionar TR-HIN" 12
+ADD_DEF "Dictionar RO-RUS" luxuriant scrawny
+BORROW Jenna "Dictionar TR-HIN" 2
+RETURN Jenna "Dictionar TR-HIN" 0 2
+RETURN Eastwood "Dictionar GR-POR" 1 4
+BORROW Jenna "Dictionar TR-HIN" 8
+RETURN Jenna "Dictionar TR-HIN" 0 2
+GET_BOOK "Dictionar TR-HIN"
+BORROW Kora "Dictionar AR-IND" 3
+RETURN Kora "Dictionar AR-IND" 16 2
+BORROW Kora "Dictionar TR-HIN" 7
+ADD_USER Hinton
+RETURN Kora "Dictionar TR-HIN" 12 2
+ADD_BOOK "Dictionar IND-RUS" 15
+eye jeans
+mist head
+fetch pricey
+ugliest living
+subtract zealous
+engine yellow
+tricky chivalrous
+scarce milky
+river miss
+guarantee tease
+learn tan
+graceful wholesale
+snow automatic
+bell base
+gullible diligent
+BORROW Jenna "Dictionar GR-POR" 5
+BORROW Lacey "Dictionar TR-HIN" 6
+ADD_DEF "Dictionar IND-RUS" old-fashioned tedious
+GET_BOOK "Dictionar EN-RUS"
+BORROW Gilbert "Dictionar NOR-ESP" 14
+RETURN Jenna "Dictionar GR-POR" 13 2
+GET_BOOK "Hoelzle + Moran = houses"
+BORROW Cosette "Dictionar IND-RUS" 14
+RETURN Cosette "Dictionar IND-RUS" 2 3
+GET_DEF "Dictionar AR-IT" cagey
+RETURN Gilbert "Dictionar NOR-ESP" 16 5
+BORROW Eastwood "Dictionar HIN-POR" 5
+ADD_USER Konitzer
+RETURN Eastwood "Dictionar HIN-POR" 3 5
+RETURN Lacey "Dictionar TR-HIN" 4 3
+GET_DEF "Dictionar EN-RUS" glove
+GET_BOOK "Dictionar EN-RUS"
+GET_DEF "Dictionar HIN-TR" island
+BORROW Lacey "Dictionar AR-IND" 12
+RETURN Lacey "Dictionar AR-IND" 14 3
+BORROW Cosette "Dictionar NOR-ESP" 9
+BORROW Gilbert "Dictionar EN-RUS" 6
+BORROW Kora "Dictionar TR-HIN" 7
+RETURN Gilbert "Dictionar EN-RUS" 4 3
+BORROW Angela "Dictionar RO-RUS" 1
+RETURN Cosette "Dictionar NOR-ESP" 9 4
+ADD_DEF "Dictionar RO-RUS" squeak event
+RETURN Angela "Dictionar RO-RUS" 12 1
+GET_BOOK "Dictionar IND-RUS"
+ADD_DEF "Leon + Wallenhorst = sudden" monkey hydrant
+RETURN Kora "Dictionar TR-HIN" 2 1
+BORROW Angela "Dictionar GR-POR" 7
+BORROW Gilbert "Dictionar IND-RUS" 14
+BORROW Cosette "Dictionar TR-HIN" 14
+BORROW Lacey "Dictionar HIN-POR" 0
+ADD_USER Arroyo
+ADD_DEF "Dictionar HIN-POR" $ rob
+GET_DEF "Dictionar RO-RUS" unnatural
+ADD_BOOK "Dictionar DTH-IT" 0
+ADD_DEF "Dictionar EN-RUS" noise special
+ADD_DEF "Dictionar EN-RUS" children borrow
+GET_DEF "Dictionar EN-RUS" children
+BORROW Konitzer "Dictionar HIN-TR" 14
+GET_BOOK "Dictionar TR-HIN"
+GET_DEF "Dictionar NOR-ESP" busy
+RETURN Angela "Dictionar GR-POR" 4 5
+RETURN Cosette "Dictionar TR-HIN" 6 5
+ADD_DEF "Dictionar NOR-ESP" tendency time
+BORROW Konitzer "Dictionar HIN-TR" 9
+RETURN Konitzer "Dictionar HIN-TR" 6 4
+BORROW Angela "Dictionar DTH-IT" 0
+RETURN Gilbert "Dictionar IND-RUS" 0 4
+BORROW Burns "Dictionar EN-RUS" 6
+GET_BOOK "Dictionar RO-RUS"
+ADD_BOOK "Dictionar GR-TR" 13
+rebel mine
+utter protect
+zonked possessive
+poke perfect
+deep sea
+dog frantic
+current decay
+pets tremendous
+ugliest unpack
+hallowed care
+spray fasten
+hurried winter
+fallacious knowledge
+ADD_DEF "Dictionar GR-POR" salt lock
+BORROW Konitzer "Dictionar NOR-ESP" 2
+ADD_DEF "Dictionar GR-POR" expensive quiver
+BORROW Arroyo "Dictionar TR-HIN" 3
+ADD_DEF "Dictionar DTH-IT" $ three
+BORROW Gilbert "Dictionar HIN-TR" 16
+RETURN Gilbert "Dictionar HIN-TR" 11 4
+BORROW Konitzer "Dictionar GR-TR" 5
+LOST Burns "Dictionar EN-RUS"
+BORROW Jenna "Dictionar GR-POR" 0
+BORROW Cosette "Dictionar RO-RUS" 16
+GET_BOOK "Marie + Britney = attraction"
+BORROW Kora "Dictionar HIN-TR" 2
+RETURN Kora "Dictionar HIN-TR" 6 2
+ADD_DEF "Dictionar AR-IND" suit knowing
+RETURN Konitzer "Dictionar NOR-ESP" 6 5
+ADD_BOOK "Dictionar JPN-RUS" 7
+needless subdued
+answer lovely
+trousers selection
+awful summer
+free toad
+harmony drop
+brawny exclusive
+RETURN Cosette "Dictionar RO-RUS" 15 2
+BORROW Burns "Dictionar IND-RUS" 3
+ADD_DEF "Dictionar NOR-ESP" rambunctious equal
+ADD_USER Ergle
+BORROW Konitzer "Dictionar RO-RUS" 7
+RETURN Jenna "Dictionar GR-POR" 7 5
+GET_BOOK "Dictionar TR-RO"
+BORROW Jenna "Dictionar NOR-ESP" 3
+GET_DEF "Dictionar DTH-IT" $
+GET_BOOK "Dictionar HIN-TR"
+RETURN Lacey "Dictionar HIN-POR" 2 4
+BORROW Kora "Dictionar GR-POR" 9
+BORROW Hinton "Dictionar JPN-RUS" 4
+GET_BOOK "Dictionar JPN-RUS"
+BORROW Zornow "Dictionar AR-IND" 10
+GET_BOOK "Ann + Viv = car"
+BORROW Lacey "Dictionar HIN-TR" 5
+RMV_DEF "Dictionar JPN-RUS" harmony
+ADD_BOOK "Dictionar HIN-KR" 13
+periodic square
+spiders mature
+mix remind
+adamant dirty
+cent depend
+flock wave
+government long-term
+volleyball limit
+pour fax
+woebegone yarn
+infamous sack
+anxious lick
+friendly boiling
+RETURN Burns "Dictionar IND-RUS" 2 4
+BORROW Burns "Dictionar GR-TR" 7
+BORROW Cosette "Dictionar IND-RUS" 8
+BORROW Eastwood "Dictionar HIN-KR" 0
+GET_DEF "Dictionar GR-POR" dusty
+GET_DEF "Dictionar GR-POR" equable
+GET_DEF "Dictionar RO-RUS" fit
+BORROW Gilbert "Dictionar HIN-POR" 4
+LOST Angela "Dictionar DTH-IT"
+ADD_DEF "Dictionar TR-HIN" finger amused
+ADD_BOOK "Dictionar TR-IT" 5
+wait relieved
+pink bump
+fine oafish
+peel prickly
+post peel
+GET_BOOK "Dictionar IND-GR"
+EXIT
